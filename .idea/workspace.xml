@@ -5,17 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8197b852-3dae-4972-a58a-e8b02ba96837" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/participant/Participant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/participant/ParticipantController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/participant/ParticipantCreateResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/participant/ParticipantData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/participant/ParticipantRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/participant/ParticipantRequestPayload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner/src/main/resources/db/migration/V2__create-table-participants.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/activities/Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/activities/ActivityData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/activities/ActivityRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/activities/ActivityRequestPayload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/activities/ActivityResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/activities/ActivityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner/src/main/resources/db/migration/V3__create-table-activities.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/participant/ParticipantService.java" beforeDir="false" afterPath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/participant/ParticipantService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/trip/TripController.java" beforeDir="false" afterPath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/trip/TripController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planner/src/main/resources/db/migration/V2__create-table-participants.sql" beforeDir="false" afterPath="$PROJECT_DIR$/planner/src/main/resources/db/migration/V2__create-table-participants.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
