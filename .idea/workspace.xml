@@ -5,16 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8197b852-3dae-4972-a58a-e8b02ba96837" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/activities/Activity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/activities/ActivityData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/activities/ActivityRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/activities/ActivityRequestPayload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/activities/ActivityResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/activities/ActivityService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planner/src/main/resources/db/migration/V3__create-table-activities.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/link/Link.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/link/LinkData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/link/LinkRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/link/LinkRequestPayload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/link/LinkResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/link/LinkService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planner/src/main/resources/db/migration/V4__create-table-links.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/activities/Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/activity/Activity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/activities/ActivityData.java" beforeDir="false" afterPath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/activity/ActivityData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/activities/ActivityRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/activity/ActivityRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/activities/ActivityRequestPayload.java" beforeDir="false" afterPath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/activity/ActivityRequestPayload.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/activities/ActivityResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/activity/ActivityResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/activities/ActivityService.java" beforeDir="false" afterPath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/activity/ActivityService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/trip/TripController.java" beforeDir="false" afterPath="$PROJECT_DIR$/planner/src/main/java/com/rocketseat/planner/trip/TripController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/planner/src/main/resources/db/migration/V2__create-table-participants.sql" beforeDir="false" afterPath="$PROJECT_DIR$/planner/src/main/resources/db/migration/V2__create-table-participants.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
